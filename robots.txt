@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HalxDocs.github.io/handbook-dppz6c/sitemap.xml
